@@ -1,0 +1,3 @@
+[submodule "themes/online-course"]
+	path = themes/online-course
+	url = https://github.com/prigazzi/hexo-theme-online-course.git
