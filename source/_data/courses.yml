@@ -1,0 +1,59 @@
+# Courses Information
+courses:
+  interviewing-course:
+    title: Sollicitatie gesprekken voeren
+    description: "Bij deze workshop leer je hoe je een goed sollicitatiegesprek voert voor beide partijen en de juiste informatie uit het gesprek haalt."
+    longDescription: "Leer om effectief te communiceren, relevante vragen te stellen en je sollicitatiegesprek te structureren. Dit doe je in een rollenspel met een heuse trainingsacteur. Solliciteer naar een plek!"
+    image: interviewingcourse.png
+    startDate: "2014-10-21"
+    formId: "A3EA"
+    language: nl
+  behind-the-scenes:
+    title: Behind The Scenes
+    description: "See you colleagues present the ideas behind the development of Coolblue to our mostly technical guests."
+    longDescription: ""
+    image: behindthescenes.png
+    url: "http://www.coolblue.nl/behindthescenes"
+    language: en
+  codeschool:
+    title: Start for new joiners IT Dev
+    description: "All you need to know on your first day working for Coolblue in the IT Development team."
+    longDescription: "Congratulations! You managed somehow to get a computer, an account and a password. In this course you'll learn some basics you need when starting to work for IT Development."
+    image: codeschool.png
+    language: en
+  codecademy:
+    title: PHP Done Right
+    description: "Some good qualities of PHP we expect to find in our developers."
+    longDescription: "Some good qualities of PHP we expect to find in our developers."
+    image: codecademy.png
+    language: en
+  coolblue-intro:
+    title: Coolblue Introduction
+    description: "During this day you learn more about the why, who en how of Coolblue."
+    longDescription: "The Coolblue Introduction Day is available in Dutch and English! So if you have new team members please sign them up for this immersive Coolblue experience. New at Coolblue? Then you'll be signed up automatically."
+    image: "coolblueintro.png"
+    startDate: "2014-11-6"
+    formId: "A3EC"
+    language: en
+  coolblue-blauwdruk:
+    title: Coolblue Blauwdruk
+    description: "Voor iedereen die werkt met het merk Coolblue. Dat ben jij ook!"
+    longDescription: ""
+    image: blauwedag.png
+    url: "https://sites.google.com/a/coolblue.nl/blueprint"
+    language: nl
+  writing-course:
+    title: Wervend schrijven
+    description: "Bij wervende teksten wil je één reactie niet: meh. Tijdens deze workshop leer je daarom de basis van wervend schrijven."
+    longDescription: "Bij wervende teksten wil je één reactie niet. En dat is: meh. Tijdens deze workshop leer je daarom de basis van wervend schrijven. Aan de hand van vele aansprekende voorbeelden, ga je zelf aan de slag met je eigen teksten. Voorbereiding: neem 2 stukken wervende tekst mee die je wilt verbeteren."
+    image: writingcourse.png
+    startDate: "2014-11-14"
+    formId: "A3F6"
+    language: nl
+  ux-at-coolblue:
+    title: User Experience Design at Coolblue
+    description: "On these pages you can find any information you need about the User Experience Design at Coolblue."
+    longDescription: ""
+    image: uxatcoolblue.png
+    url: "https://sites.google.com/a/coolblue.nl/ux"
+    language: en
